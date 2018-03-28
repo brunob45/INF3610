@@ -12372,3 +12372,12 @@ org.eclipse.core.runtime.CoreException: No property tester contributes a propert
 
 !ENTRY com.xilinx.sdk.utils 0 0 2018-03-28 15:20:58.457
 !MESSAGE XSCT command with result: [con], Result: [null, ]. Thread: Worker-22
+
+!ENTRY com.xilinx.sdk.utils 1 0 2018-03-28 15:34:07.521
+!MESSAGE Executed Webtalk command
+
+!ENTRY com.xilinx.sdk.utils 0 0 2018-03-28 15:34:07.534
+!MESSAGE XSCT Command: [disconnect tcfchan#5], Thread: Thread-495
+
+!ENTRY com.xilinx.sdk.utils 0 0 2018-03-28 15:34:07.545
+!MESSAGE XSCT command with result: [disconnect tcfchan#5], Result: [null, ]. Thread: Thread-495

@@ -27,12 +27,11 @@
 								<option id="gnu.cpp.compiler.option.include.paths.1431369671" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include/etc"/>
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include"/>
-									<listOptionValue builtIn="false" value="C:/TEMP/INF3610_4/1798345_1798492"/>
+									<listOptionValue builtIn="false" value="C:/dev/3610/4/foo/hls2"/>
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/auto_cc/include"/>
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/systemc/include"/>
-									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include/ap_sysc"/>
-									<listOptionValue builtIn="false" value="C:/dev/3610/4/foo/hls2"/>
 									<listOptionValue builtIn="false" value="/home/ff/dev/foo/hls2"/>
+									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include/ap_sysc"/>
 								</option>
 								<option id="gnu.cpp.compiler.option.preprocessor.def.1617288659" name="Defined symbols (-D)" superClass="gnu.cpp.compiler.option.preprocessor.def" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="AESL_TB"/>
@@ -47,12 +46,11 @@
 								<option id="gnu.c.compiler.option.include.paths.246054516" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include/etc"/>
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include"/>
-									<listOptionValue builtIn="false" value="C:/TEMP/INF3610_4/1798345_1798492"/>
+									<listOptionValue builtIn="false" value="C:/dev/3610/4/foo/hls2"/>
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/auto_cc/include"/>
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/systemc/include"/>
-									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include/ap_sysc"/>
-									<listOptionValue builtIn="false" value="C:/dev/3610/4/foo/hls2"/>
 									<listOptionValue builtIn="false" value="/home/ff/dev/foo/hls2"/>
+									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include/ap_sysc"/>
 								</option>
 								<option id="gnu.c.compiler.option.preprocessor.def.symbols.1492725539" name="Defined symbols (-D)" superClass="gnu.c.compiler.option.preprocessor.def.symbols" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="AESL_TB"/>
@@ -117,12 +115,11 @@
 								<option id="gnu.cpp.compiler.option.include.paths.21176113" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include/etc"/>
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include"/>
-									<listOptionValue builtIn="false" value="C:/TEMP/INF3610_4/1798345_1798492"/>
+									<listOptionValue builtIn="false" value="C:/dev/3610/4/foo/hls2"/>
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/auto_cc/include"/>
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/systemc/include"/>
-									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include/ap_sysc"/>
-									<listOptionValue builtIn="false" value="C:/dev/3610/4/foo/hls2"/>
 									<listOptionValue builtIn="false" value="/home/ff/dev/foo/hls2"/>
+									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include/ap_sysc"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.853554526" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
@@ -132,12 +129,11 @@
 								<option id="gnu.c.compiler.option.include.paths.43439160" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include/etc"/>
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include"/>
-									<listOptionValue builtIn="false" value="C:/TEMP/INF3610_4/1798345_1798492"/>
+									<listOptionValue builtIn="false" value="C:/dev/3610/4/foo/hls2"/>
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/auto_cc/include"/>
 									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/systemc/include"/>
-									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include/ap_sysc"/>
-									<listOptionValue builtIn="false" value="C:/dev/3610/4/foo/hls2"/>
 									<listOptionValue builtIn="false" value="/home/ff/dev/foo/hls2"/>
+									<listOptionValue builtIn="false" value="C:/Logiciels/Xilinx/Vivado_HLS/2017.2/include/ap_sysc"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.1633942401" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
 							</tool>
