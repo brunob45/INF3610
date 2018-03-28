@@ -1,0 +1,54 @@
+INFO: [HLS 200-10] Running 'C:/Logiciels/Xilinx/Vivado_HLS/2017.2/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'brboui' on host 'l3712-10' (Windows NT_amd64 version 6.2) on Wed Mar 28 13:19:01 -0400 2018
+INFO: [HLS 200-10] In directory 'C:/TEMP/INF3610_4/1798345_1798492'
+INFO: [HLS 200-10] Opening project 'C:/TEMP/INF3610_4/1798345_1798492/SobelLab4'.
+INFO: [HLS 200-10] Adding design file 'SobelLab4/Sobel.cpp' to the project
+INFO: [HLS 200-10] Adding test bench file 'SobelLab4/sobel_test.cpp' to the project
+INFO: [HLS 200-10] Adding test bench file 'SobelLab4/ap_bmp.cpp' to the project
+INFO: [HLS 200-10] Opening solution 'C:/TEMP/INF3610_4/1798345_1798492/SobelLab4/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
+INFO: [HLS 200-10] Analyzing design file 'SobelLab4/Sobel.cpp' ... 
+INFO: [HLS 200-10] Validating synthesis directives ...
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:05 . Memory (MB): peak = 95.141 ; gain = 45.633
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:07 . Memory (MB): peak = 95.160 ; gain = 45.652
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:01 ; elapsed = 00:00:07 . Memory (MB): peak = 96.609 ; gain = 47.102
+INFO: [HLS 200-10] Checking synthesizability ...
+WARNING: [SYNCHK 200-23] SobelLab4/Sobel.cpp:49: variable-indexed range selection may cause suboptimal QoR.
+INFO: [SYNCHK 200-10] 0 error(s), 1 warning(s).
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:01 ; elapsed = 00:00:07 . Memory (MB): peak = 96.824 ; gain = 47.316
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'IMG' (SobelLab4/Sobel.cpp:45) in function 'sobel_filter' for pipelining.
+INFO: [XFORM 203-501] Unrolling loop 'OneTo4' (SobelLab4/Sobel.cpp:50) in function 'sobel_filter' completely.
+INFO: [XFORM 203-11] Balancing expressions in function 'sobel_filter' (SobelLab4/Sobel.cpp:31)...3 expression(s) balanced.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:01 ; elapsed = 00:00:08 . Memory (MB): peak = 118.543 ; gain = 69.035
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:01 ; elapsed = 00:00:08 . Memory (MB): peak = 118.543 ; gain = 69.035
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'sobel_filter' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Implementing module 'sobel_filter' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'IMG'.
+INFO: [SCHED 204-61] Pipelining result: Target II: 1, Final II: 1, Depth: 3.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 7.894 seconds; current allocated memory: 72.846 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.129 seconds; current allocated memory: 72.960 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'sobel_filter' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'sobel_filter/inter_pix' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'sobel_filter/out_pix' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'sobel_filter' to 'ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'sobel_filter'.
+INFO: [HLS 200-111]  Elapsed time: 0.094 seconds; current allocated memory: 73.193 MB.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:01 ; elapsed = 00:00:09 . Memory (MB): peak = 118.543 ; gain = 69.035
+INFO: [SYSC 207-301] Generating SystemC RTL for sobel_filter.
+INFO: [VHDL 208-304] Generating VHDL RTL for sobel_filter.
+INFO: [VLOG 209-307] Generating Verilog RTL for sobel_filter.
+INFO: [HLS 200-112] Total elapsed time: 9.281 seconds; peak allocated memory: 73.193 MB.

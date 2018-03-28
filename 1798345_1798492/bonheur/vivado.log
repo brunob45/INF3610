@@ -1,0 +1,43 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Wed Mar 28 15:08:33 2018
+# Process ID: 35608
+# Current directory: C:/TEMP/INF3610_4/1798345_1798492/bonheur
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent36060 C:\TEMP\INF3610_4\1798345_1798492\bonheur\bonheur.xpr
+# Log file: C:/TEMP/INF3610_4/1798345_1798492/bonheur/vivado.log
+# Journal file: C:/TEMP/INF3610_4/1798345_1798492/bonheur\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/TEMP/INF3610_4/1798345_1798492/bonheur/bonheur.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/TEMP/INF3610_4/1798345_1798492/ip_repo'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Logiciels/Xilinx/Vivado/2017.2/data/ip'.
+open_project: Time (s): cpu = 00:00:22 ; elapsed = 00:00:13 . Memory (MB): peak = 835.789 ; gain = 64.211
+update_compile_order -fileset sources_1
+open_bd_design {C:/TEMP/INF3610_4/1798345_1798492/bonheur/bonheur.srcs/sources_1/bd/design_1/design_1.bd}
+Adding cell -- xilinx.com:ip:processing_system7:5.5 - processing_system7_0
+Adding cell -- xilinx.com:ip:clk_wiz:5.4 - clk_wiz_0
+Adding cell -- xilinx.com:ip:axi_iic:2.0 - zed_hdmi_iic_0
+Adding cell -- xilinx.com:ip:proc_sys_reset:5.0 - rst_ps7_0_76M
+Adding cell -- xilinx.com:ip:axi_vdma:6.3 - axi_vdma_0
+Adding cell -- xilinx.com:ip:axis_subset_converter:1.1 - axis_subset_converter_0
+Adding cell -- xilinx.com:ip:xlconstant:1.1 - gnd
+Adding cell -- xilinx.com:ip:proc_sys_reset:5.0 - proc_sys_reset
+Adding cell -- xilinx.com:ip:v_axi4s_vid_out:4.0 - v_axi4s_vid_out_0
+Adding cell -- polymtl.ca:hls:CrappyButFreeChromaResampler:1.0 - v_cresample_0
+Adding cell -- xilinx.com:ip:v_rgb2ycrcb:7.1 - v_rgb2ycrcb_0
+Adding cell -- xilinx.com:ip:v_tc:6.1 - v_tc_0
+Adding cell -- xilinx.com:ip:xlconstant:1.1 - vcc
+Adding cell -- avnet:zedboard:zed_hdmi_out:2.0 - zed_hdmi_out_0
+Adding cell -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+Adding cell -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+Adding cell -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+Excluding </zed_hdmi_display/axi_vdma_0/S_AXI_LITE/Reg> from </zed_hdmi_display/axi_vdma_0/Data_MM2S>
+Excluding </zed_hdmi_display/v_tc_0/ctrl/Reg> from </zed_hdmi_display/axi_vdma_0/Data_MM2S>
+Excluding </zed_hdmi_iic_0/S_AXI/Reg> from </zed_hdmi_display/axi_vdma_0/Data_MM2S>
+Successfully read diagram <design_1> from BD file <C:/TEMP/INF3610_4/1798345_1798492/bonheur/bonheur.srcs/sources_1/bd/design_1/design_1.bd>
+open_bd_design: Time (s): cpu = 00:00:13 ; elapsed = 00:00:12 . Memory (MB): peak = 936.258 ; gain = 67.410

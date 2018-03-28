@@ -1,0 +1,142 @@
+/*
+
+Vivado v2017.2 (64-bit)
+SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+
+Process ID: 35608
+License: Customer
+
+Current time: 	3/28/18 3:08:54 PM EDT
+Time zone: 	Eastern Standard Time (America/New_York)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 96
+Available screens: 2
+Available disk space: 288 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	C:/Logiciels/Xilinx/Vivado/2017.2/tps/win64/jre
+JVM executable location: 	C:/Logiciels/Xilinx/Vivado/2017.2/tps/win64/jre/bin/java.exe
+Java library paths: C:/Logiciels/Xilinx/Vivado/2017.2/bin/unwrapped/win64.o;C:/Windows/Sun/Java/bin;C:/Windows/system32;C:/Windows;C:/Logiciels/Xilinx/Vivado/2017.2/bin;C:/Logiciels/Xilinx/Vivado/2017.2/lib/win64.o;C:/Logiciels/Xilinx/Vivado/2017.2/tps/win64/jre/bin/server;C:/Logiciels/Xilinx/Vivado/2017.2/tps/win64/jre/bin;C:/Logiciels/Xilinx/SDK/2017.2/bin;C:/Logiciels/Xilinx/Vivado/2017.2/ids_lite/ISE/bin/nt64;C:/Logiciels/Xilinx/Vivado/2017.2/ids_lite/ISE/lib/nt64;C:/Logiciels/Xilinx/Vivado_HLS/2017.2/bin;C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common;C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v6.5/bin;C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v6.5/libnvvp;C:/Logiciels/Tcl/bin;C:/Logiciels/Python27/;C:/Logiciels/Python27/Scripts;C:/Windows/system32;C:/Windows;C:/Windows/System32/Wbem;C:/Windows/System32/WindowsPowerShell/v1.0/;C:/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/;C:/Program Files/Microsoft SQL Server/110/Tools/Binn/;C:/Program Files/TortoiseSVN/bin;C:/Logiciels/cygwin64/bin;C:/Program Files/doxygen/bin;C:/Program Files/MATLAB/R2014a/bin;C:/Aldec/Active-HDL 8.3/BIN;;c:/logiciels/Active-HDL 8.3/BIN;C:/Program Files/TortoiseGit/bin;C:/Logiciels/uppaal-tiga-0.16/bin-Win32;C:/Program Files (x86)/PuTTY/;C:/Logiciels/Aldec/Active-HDL-10.4a/bin;C:/ProgramData/npm;C:/Program Files/Java/jdk1.8.0_121/bin;C:/Program Files/Microsoft SQL Server/130/Tools/Binn/;C:/Program Files/dotnet/;C:/Program Files/MATLAB/R2017a/bin;C:/Windows/system32/config/systemprofile/AppData/;C:/Users/brboui/AppData/Local/Microsoft/WindowsApps;C:/Logiciels/Xilinx/Vivado/2017.2/tps/mingw/6.2.0/win64.o/nt/bin;C:/Logiciels/Xilinx/Vivado/2017.2/tps/mingw/6.2.0/win64.o/nt/libexec/gcc/x86_64-w64-mingw32/6.2.0;.
+
+User name: 	brboui
+User home directory: C:/Users/brboui
+User working directory: C:/TEMP/INF3610_4/1798345_1798492/bonheur
+User country: 	CA
+User language: 	fr
+User locale: 	fr_CA
+
+RDI_BASEROOT: C:/Logiciels/Xilinx/Vivado
+HDI_APPROOT: C:/Logiciels/Xilinx/Vivado/2017.2
+RDI_DATADIR: C:/Logiciels/Xilinx/Vivado/2017.2/data
+RDI_BINDIR: C:/Logiciels/Xilinx/Vivado/2017.2/bin
+
+User preferences location: C:/Users/brboui/AppData/Roaming/Xilinx/Vivado
+Vivado preferences directory: C:/Users/brboui/AppData/Roaming/Xilinx/Vivado/2017.2/vivado.xml
+Vivado layouts directory: C:/Users/brboui/AppData/Roaming/Xilinx/Vivado/2017.2/layouts
+PlanAhead jar location: 	C:/Logiciels/Xilinx/Vivado/2017.2/lib/classes/planAhead.jar
+Vivado Look & Feel: 	[Synthetica - the extended Synth Look and Feel. - ui.g.i.H]
+Engine tmp dir: 	C:/TEMP/INF3610_4/1798345_1798492/bonheur/.Xil/Vivado-35608-L3712-10
+
+GUI allocated memory:	175 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 511 MB
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 52 MB (+52500kb) [00:00:12]
+// [Engine Memory]: 468 MB (+338741kb) [00:00:12]
+// bs:g (cg:JFrame):  Open Project : addNotify
+// Opening Vivado Project: C:\TEMP\INF3610_4\1798345_1798492\bonheur\bonheur.xpr. Version: Vivado v2017.2 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project C:/TEMP/INF3610_4/1798345_1798492/bonheur/bonheur.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: FILE_SET_CHANGE
+// [Engine Memory]: 544 MB (+55973kb) [00:00:17]
+// HMemoryUtils.trashcanNow. Engine heap size: 544 MB. GUI used memory: 36 MB. Current time: 3/28/18 3:08:57 PM EDT
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 57 MB (+1848kb) [00:00:21]
+// [Engine Memory]: 585 MB (+14252kb) [00:00:21]
+// [GUI Memory]: 70 MB (+10721kb) [00:00:23]
+// [Engine Memory]: 622 MB (+7626kb) [00:00:24]
+// [GUI Memory]: 80 MB (+6524kb) [00:00:24]
+// Tcl Message: open_project C:/TEMP/INF3610_4/1798345_1798492/bonheur/bonheur.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/TEMP/INF3610_4/1798345_1798492/ip_repo'. INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Logiciels/Xilinx/Vivado/2017.2/data/ip'. 
+// Tcl Message: open_project: Time (s): cpu = 00:00:22 ; elapsed = 00:00:13 . Memory (MB): peak = 835.789 ; gain = 64.211 
+// Project name: bonheur; location: C:/TEMP/INF3610_4/1798345_1798492/bonheur; part: xc7z020clg484-1
+// [Engine Memory]: 662 MB (+9568kb) [00:00:26]
+dismissDialog("Open Project"); // bs:g (cg:JFrame)
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_GRAPH_GENERATED
+// Tcl Message: update_compile_order -fileset sources_1 
+// [GUI Memory]: 85 MB (+1309kb) [00:00:33]
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, design_1_wrapper (design_1_wrapper.v)]", 1); // B:i (D:JPanel, cg:JFrame)
+// PAPropertyPanels.initPanels (design_1_wrapper.v) elapsed time: 0.2s
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, design_1_wrapper (design_1_wrapper.v)]", 1, true); // B:i (D:JPanel, cg:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, design_1_wrapper (design_1_wrapper.v), design_1_i : design_1 (design_1.bd), design_1 (design_1.v)]", 3, true); // B:i (D:JPanel, cg:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, design_1_wrapper (design_1_wrapper.v), design_1_i : design_1 (design_1.bd)]", 2, true); // B:i (D:JPanel, cg:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, design_1_wrapper (design_1_wrapper.v)]", 1, true); // B:i (D:JPanel, cg:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, design_1_wrapper (design_1_wrapper.v)]", 1, true, false, false, false, false, true); // B:i (D:JPanel, cg:JFrame) - Double Click - Node
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, design_1_wrapper (design_1_wrapper.v)]", 1); // B:i (D:JPanel, cg:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, design_1_wrapper (design_1_wrapper.v), design_1_i : design_1 (design_1.bd)]", 2, true); // B:i (D:JPanel, cg:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, design_1_wrapper (design_1_wrapper.v), design_1_i : design_1 (design_1.bd)]", 2, true, false, false, false, false, true); // B:i (D:JPanel, cg:JFrame) - Double Click - Node
+// bs:g (cg:JFrame):  Open Block Design : addNotify
+// TclEventType: LOAD_FEATURE
+// Tcl Message: open_bd_design {C:/TEMP/INF3610_4/1798345_1798492/bonheur/bonheur.srcs/sources_1/bd/design_1/design_1.bd} 
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: LOAD_FEATURE
+// Tcl Message: Adding cell -- xilinx.com:ip:processing_system7:5.5 - processing_system7_0 Adding cell -- xilinx.com:ip:clk_wiz:5.4 - clk_wiz_0 Adding cell -- xilinx.com:ip:axi_iic:2.0 - zed_hdmi_iic_0 
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: RSB_OPEN_DIAGRAM
+// [Engine Memory]: 737 MB (+44393kb) [00:00:51]
+// TclEventType: RSB_CONNECTION_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 752 MB. GUI used memory: 57 MB. Current time: 3/28/18 3:09:33 PM EDT
+// TclEventType: RSB_CONNECTION_CHANGE
+// TclEventType: RSB_LOCK_CHANGE
+// Tcl Message: open_bd_design: Time (s): cpu = 00:00:13 ; elapsed = 00:00:12 . Memory (MB): peak = 936.258 ; gain = 67.410 
+// Elapsed time: 12 seconds
+dismissDialog("Open Block Design"); // bs:g (cg:JFrame)
+// [Engine Memory]: 779 MB (+5076kb) [00:00:55]
+// [GUI Memory]: 95 MB (+5979kb) [00:01:04]
+// PAPropertyPanels.initPanels (processing_system7_0_FCLK_CLK0) elapsed time: 0.2s
+// Elapsed time: 74 seconds
+selectView(PAResourceOtoP.PAViews_SYSTEM, "System", 664, 493, 1249, 587, false, false, false, true, false); // fe:aJ (k:TdiGroup, cg:JFrame) - Popup Trigger
+selectMenu(PAResourceQtoS.SelectMenu_HIGHLIGHT, "Highlight"); // Z:JMenu (ai:JPopupMenu, Popup:JWindow)
+selectMenuItem(RDIResourceCommand.RDICommands_PROPERTIES, "Block Properties..."); // ac:JMenuItem (ai:JPopupMenu, Popup:JWindow)
+// Run Command: RDIResourceCommand.RDICommands_PROPERTIES
+selectView(PAResourceOtoP.PAViews_SYSTEM, "System", 649, 467, 1249, 587, false, false, false, true, false); // fe:aJ (k:TdiGroup, cg:JFrame) - Popup Trigger
+selectMenuItem(PAResourceCommand.PACommandNames_CUSTOMIZE_RSB_BLOC, "Customize Block..."); // ac:JMenuItem (ai:JPopupMenu, Popup:JWindow)
+// Run Command: PAResourceCommand.PACommandNames_CUSTOMIZE_RSB_BLOC
+// M:bs (cg:JFrame):  Re-customize IP : addNotify
+// HMemoryUtils.trashcanNow. Engine heap size: 880 MB. GUI used memory: 61 MB. Current time: 3/28/18 3:10:57 PM EDT
+// [Engine Memory]: 887 MB (+71750kb) [00:02:20]
+// p:g (cg:JFrame): Re-customize IP: addNotify
+// [Engine Memory]: 943 MB (+13157kb) [00:02:22]
+dismissDialog("Re-customize IP"); // M:bs (cg:JFrame)
+selectTab(PAResourceTtoZ.XPG_TabbedPane_TABBED_PANE, (HResource) null, "Clocking Options", 1); // cR:i (C:JPanel, p:g)
+selectTab(PAResourceTtoZ.XPG_TabbedPane_TABBED_PANE, (HResource) null, "Output Clocks", 2); // cR:i (C:JPanel, p:g)
+// [GUI Memory]: 101 MB (+1197kb) [00:02:36]
+// Elapsed time: 10 seconds
+dismissDialog("Re-customize IP"); // p:g (cg:JFrame)
+// [GUI Memory]: 107 MB (+738kb) [00:02:46]
+// [GUI Memory]: 114 MB (+1924kb) [00:04:33]
+// [GUI Memory]: 120 MB (+782kb) [00:08:40]
+// [GUI Memory]: 126 MB (+37kb) [00:08:50]
+// HMemoryUtils.trashcanNow. Engine heap size: 967 MB. GUI used memory: 77 MB. Current time: 3/28/18 3:23:47 PM EDT
+// Elapsed time: 792 seconds
+selectButton(RDIResource.HToolBar_EXPAND_ALL, "Tcl Console_expand_all"); // B:JideButton (f:CommandBar, cg:JFrame)
