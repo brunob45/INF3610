@@ -1,0 +1,7 @@
+15:13:17 **** Clean-only build of configuration Debug for project lab4 ****
+make clean 
+rm -rf  ./src/hdmi/video_frame_buffer.o ./src/hdmi/video_generator.o ./src/hdmi/video_resolution.o ./src/hdmi/zed_hdmi_display.o ./src/hdmi/zed_iic_axi.o  ./src/main.o ./src/platform.o  ./src/hdmi/video_frame_buffer.d ./src/hdmi/video_generator.d ./src/hdmi/video_resolution.d ./src/hdmi/zed_hdmi_display.d ./src/hdmi/zed_iic_axi.d  ./src/main.d ./src/platform.d  lab4.elf.size  lab4.elf
+ 
+
+15:13:18 Build Finished (took 365ms)
+

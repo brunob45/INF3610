@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Wed Apr 11 14:18:09 2018
+# Process ID: 17168
+# Current directory: C:/TEMP/3610_4/TP4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19260 C:\TEMP\3610_4\TP4\TP4.xpr
+# Log file: C:/TEMP/3610_4/TP4/vivado.log
+# Journal file: C:/TEMP/3610_4/TP4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/TEMP/3610_4/TP4/TP4.xpr
+update_compile_order -fileset sources_1
+open_bd_design {C:/TEMP/3610_4/TP4/TP4.srcs/sources_1/bd/design_1/design_1.bd}

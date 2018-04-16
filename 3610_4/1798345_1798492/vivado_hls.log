@@ -1,0 +1,95 @@
+INFO: [HLS 200-10] Running 'C:/Logiciels/Xilinx/Vivado_HLS/2017.2/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'brboui' on host 'l3712-06' (Windows NT_amd64 version 6.2) on Mon Apr 16 18:05:46 -0400 2018
+INFO: [HLS 200-10] In directory 'C:/TEMP/3610_4/1798345_1798492'
+INFO: [HLS 200-10] Opening project 'C:/TEMP/3610_4/1798345_1798492/SobelLab4'.
+INFO: [HLS 200-10] Adding design file 'SobelLab4/Sobel.cpp' to the project
+INFO: [HLS 200-10] Adding test bench file 'SobelLab4/sobel_test.cpp' to the project
+INFO: [HLS 200-10] Adding test bench file 'SobelLab4/ap_bmp.cpp' to the project
+INFO: [HLS 200-10] Opening solution 'C:/TEMP/3610_4/1798345_1798492/SobelLab4/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
+INFO: [HLS 200-10] Analyzing design file 'SobelLab4/Sobel.cpp' ... 
+INFO: [HLS 200-10] Validating synthesis directives ...
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:04 . Memory (MB): peak = 95.227 ; gain = 45.785
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:05 . Memory (MB): peak = 95.246 ; gain = 45.805
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'getFullIndex' into 'sobel_filter' (SobelLab4/Sobel.cpp:57).
+INFO: [XFORM 203-603] Inlining function 'sobel_operator' into 'sobel_filter' (SobelLab4/Sobel.cpp:58).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:01 ; elapsed = 00:00:06 . Memory (MB): peak = 97.148 ; gain = 47.707
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:01 ; elapsed = 00:00:06 . Memory (MB): peak = 97.363 ; gain = 47.922
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'sobel_point' (SobelLab4/Sobel.cpp:53) in function 'sobel_filter' for pipelining.
+INFO: [XFORM 203-501] Unrolling loop 'Loop-5.1.1' (SobelLab4/Sobel.cpp:94) in function 'sobel_filter' completely.
+INFO: [XFORM 203-501] Unrolling loop 'Loop-5.1.1.1' (SobelLab4/Sobel.cpp:95) in function 'sobel_filter' completely.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (SobelLab4/Sobel.cpp:53:61) to (SobelLab4/Sobel.cpp:53:55) in function 'sobel_filter'... converting 3 basic blocks.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:01 ; elapsed = 00:00:06 . Memory (MB): peak = 118.871 ; gain = 69.430
+INFO: [XFORM 203-541] Flattening a loop nest 'sobel_line' (SobelLab4/Sobel.cpp:52:59) in function 'sobel_filter'.
+INFO: [XFORM 203-811] Inferring bus burst write of length 1920 on port 'gmem2' (SobelLab4/Sobel.cpp:36:3).
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:02 ; elapsed = 00:00:06 . Memory (MB): peak = 120.012 ; gain = 70.570
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'sobel_filter' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Implementing module 'getVal' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'getVal'.
+INFO: [SCHED 204-61] Pipelining result: Target II: 1, Final II: 1, Depth: 10.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 6.525 seconds; current allocated memory: 83.817 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.125 seconds; current allocated memory: 83.944 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Implementing module 'sobel_filter' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'sobel_line_sobel_point'.
+WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'call' operation ('tmp_7', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'.
+WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 1)
+   between 'call' operation ('tmp_7', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'.
+WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 1)
+   between 'call' operation ('tmp_7', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'.
+WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 4, distance = 1, offset = 1)
+   between 'call' operation ('tmp_7', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'.
+WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 67, distance = 1, offset = 1)
+   between 'call' operation ('tmp_16', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'.
+WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 74, distance = 1, offset = 1)
+   between 'call' operation ('tmp_17', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'.
+WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 78, distance = 1, offset = 1)
+   between 'call' operation ('tmp_17', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'.
+WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 79, distance = 1, offset = 1)
+   between 'call' operation ('tmp_17', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'.
+INFO: [SCHED 204-61] Pipelining result: Target II: 1, Final II: 80, Depth: 89.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 0.34 seconds; current allocated memory: 84.981 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.591 seconds; current allocated memory: 85.955 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'getVal' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-100] Finished creating RTL model for 'getVal'.
+INFO: [HLS 200-111]  Elapsed time: 0.353 seconds; current allocated memory: 86.397 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'sobel_filter' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'sobel_filter/gmem' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'sobel_filter/gmem2' to 'm_axi'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'sobel_filter/inter_pix' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'sobel_filter/out_pix' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'sobel_filter' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'return', 'inter_pix' and 'out_pix' to AXI-Lite port AXILiteS.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'sobel_filter'.
+INFO: [HLS 200-111]  Elapsed time: 1.066 seconds; current allocated memory: 90.490 MB.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:04 ; elapsed = 00:00:11 . Memory (MB): peak = 135.016 ; gain = 85.574
+INFO: [SYSC 207-301] Generating SystemC RTL for sobel_filter.
+INFO: [VHDL 208-304] Generating VHDL RTL for sobel_filter.
+INFO: [VLOG 209-307] Generating Verilog RTL for sobel_filter.
+INFO: [HLS 200-112] Total elapsed time: 10.883 seconds; peak allocated memory: 90.490 MB.

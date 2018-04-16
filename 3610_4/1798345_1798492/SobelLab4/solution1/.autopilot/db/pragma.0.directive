@@ -1,0 +1,33 @@
+<AutoPilot:ProjectResources xmlns:AutoPilot="com.autoesl.autopilot.ui.directiveView">
+<sourceFile name="">
+<directive functionLabel="" functionName="getFullIndex" label="">
+<pragma name="INLINE"/>
+</directive>
+<directive functionLabel="" functionName="sobel_filter" label="">
+<pragma name="INTERFACE">
+<option name="m_axi" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="inter_pix"/>
+<option name="offset" value="slave"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="sobel_filter" label="">
+<pragma name="INTERFACE">
+<option name="m_axi" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="out_pix"/>
+<option name="offset" value="slave"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="sobel_filter" label="">
+<pragma name="INTERFACE">
+<option name="s_axilite" positionalBoolean="mode" value=""/>
+<option name="port" positionalBoolean="4" value="return"/>
+</pragma>
+</directive>
+<directive functionLabel="" functionName="sobel_filter" label="">
+<pragma name="PIPELINE"/>
+</directive>
+<directive functionLabel="" functionName="sobel_operator" label="">
+<pragma name="INLINE"/>
+</directive>
+</sourceFile>
+</AutoPilot:ProjectResources>

@@ -1,0 +1,1831 @@
+16:44:14 **** Build of project standalone_bsp_0 ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axivdma_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v6_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/iic_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_7/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v6_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/vtc_v7_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/vtc_v7_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v3_6/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xilffs_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make libs in ps7_cortexa9_0/libsrc/axivdma_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v6_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling axivdma"
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma.c:79:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+xaxivdma.c: In function 'XAxiVdma_CfgInitialize':
+xdebug.h:76:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xaxivdma.c:205:4: note: in expansion of macro 'xdbg_printf'
+    xdbg_printf(XDBG_DEBUG_GENERAL,
+    ^~~~~~~~~~~
+xdebug.h:76:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xaxivdma.c:286:4: note: in expansion of macro 'xdbg_printf'
+    xdbg_printf(XDBG_DEBUG_GENERAL,
+    ^~~~~~~~~~~
+xaxivdma.c: In function 'XAxiVdma_SetLineBufThreshold':
+xaxivdma.c:560:5: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+     "Line Buffer Threshold set to %x\n\r",
+     ^
+xdebug.h:76:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xdebug.h:76:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xaxivdma.c:559:4: note: in expansion of macro 'xdbg_printf'
+    xdbg_printf(XDBG_DEBUG_GENERAL,
+    ^~~~~~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma_channel.c:84:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_g.c:41:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_intr.c:61:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_selftest.c:54:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_sinit.c:59:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling coresightps_dcc"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/iic_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling iic"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_7/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling scugic"
+xscugic_g.c:53:2: warning: missing initializer for field 'HandlerTable' of 'XScuGic_Config {aka struct <anonymous>}' [-Wmissing-field-initializers]
+  }
+  ^
+In file included from xscugic_g.c:41:0:
+xscugic.h:218:27: note: 'HandlerTable' declared here
+  XScuGic_VectorTableEntry HandlerTable[XSCUGIC_MAX_NUM_INTR_INPUTS];/**<
+                           ^~~~~~~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling sobel_filter"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v6_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling standalone"
+In file included from xil_exception.c:59:0:
+xdebug.h:8:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+xil_exception.c: In function 'Xil_DataAbortHandler':
+xdebug.h:21:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xil_exception.c:261:9: note: in expansion of macro 'xdbg_printf'
+         xdbg_printf(XDBG_DEBUG_ERROR, "Data abort \n");
+         ^~~~~~~~~~~
+xil_exception.c:270:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Data abort with Data Fault Status Register  %x\n",FaultStatus);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c:271:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Address of Instrcution causing Data abort %x\n",DataAbortAddr);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c: In function 'Xil_PrefetchAbortHandler':
+xdebug.h:21:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xil_exception.c:296:5: note: in expansion of macro 'xdbg_printf'
+     xdbg_printf(XDBG_DEBUG_ERROR, "Prefetch abort \n");
+     ^~~~~~~~~~~
+xil_exception.c:305:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Prefetch abort with Instruction Fault Status Register  %x\n",FaultStatus);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c:306:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Address of Instrcution causing Prefetch abort %x\n",PrefetchAbortAddr);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c: In function 'Xil_UndefinedExceptionHandler':
+xil_exception.c:327:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Address of the undefined instruction %x\n",UndefinedExceptionAddr);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/vtc_v7_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/vtc_v7_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling video timing controller"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling xadcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v3_6/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xilffs_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling XilFFs Library"
+diskio.c:135:11: warning: 'ExtCsd' defined but not used [-Wunused-variable]
+ static u8 ExtCsd[512] __attribute__ ((aligned(32)));
+           ^~~~~~
+'Finished building libraries'
+16:45:19 **** Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/helloworld.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+Finished building: ../src/helloworld.c
+ 
+Building file: ../src/platform.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+Finished building: ../src/platform.c
+ 
+Building target: malheur.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "malheur.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group
+Finished building target: malheur.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size malheur.elf  |tee "malheur.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  73944	   2588	  23328	  99860	  18614	malheur.elf
+Finished building: malheur.elf.size
+ 
+16:45:46 **** Incremental Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Rien à faire pour « main-build ».
+16:46:37 **** Clean-only build of configuration Debug for project malheur ****
+make clean 
+rm -rf  ./src/helloworld.o ./src/platform.o  ./src/helloworld.d ./src/platform.d  malheur.elf.size  malheur.elf
+ 
+16:46:38 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/hdmi/video_frame_buffer.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/video_frame_buffer.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/video_frame_buffer.d" -MT"src/hdmi/video_frame_buffer.o" -o "src/hdmi/video_frame_buffer.o" "../src/hdmi/video_frame_buffer.c"
+Finished building: ../src/hdmi/video_frame_buffer.c
+ 
+Building file: ../src/hdmi/video_generator.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/video_generator.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/video_generator.d" -MT"src/hdmi/video_generator.o" -o "src/hdmi/video_generator.o" "../src/hdmi/video_generator.c"
+Finished building: ../src/hdmi/video_generator.c
+ 
+Building file: ../src/hdmi/video_resolution.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/video_resolution.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/video_resolution.d" -MT"src/hdmi/video_resolution.o" -o "src/hdmi/video_resolution.o" "../src/hdmi/video_resolution.c"
+Finished building: ../src/hdmi/video_resolution.c
+ 
+Building file: ../src/hdmi/zed_hdmi_display.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/zed_hdmi_display.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/zed_hdmi_display.d" -MT"src/hdmi/zed_hdmi_display.o" -o "src/hdmi/zed_hdmi_display.o" "../src/hdmi/zed_hdmi_display.c"
+Finished building: ../src/hdmi/zed_hdmi_display.c
+ 
+Building file: ../src/hdmi/zed_iic_axi.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/zed_iic_axi.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/zed_iic_axi.d" -MT"src/hdmi/zed_iic_axi.o" -o "src/hdmi/zed_iic_axi.o" "../src/hdmi/zed_iic_axi.c"
+Finished building: ../src/hdmi/zed_iic_axi.c
+ 
+Building file: ../src/Sobel.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/Sobel.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/Sobel.d" -MT"src/Sobel.o" -o "src/Sobel.o" "../src/Sobel.c"
+../src/Sobel.c: In function 'sobel_filter':
+../src/Sobel.c:24:0: warning: ignoring #pragma HLS INTERFACE [-Wunknown-pragmas]
+ #pragma HLS INTERFACE m_axi port=inter_pix offset=slave
+ 
+../src/Sobel.c:25:0: warning: ignoring #pragma HLS INTERFACE [-Wunknown-pragmas]
+ #pragma HLS INTERFACE m_axi port=out_pix offset=slave
+ 
+../src/Sobel.c:26:0: warning: ignoring #pragma HLS INTERFACE [-Wunknown-pragmas]
+ #pragma HLS INTERFACE s_axilite port=return
+ 
+../src/Sobel.c: In function 'sobel_operator':
+../src/Sobel.c:62:0: warning: ignoring #pragma HLS inline [-Wunknown-pragmas]
+ #pragma HLS inline   // Inliner la fonction lui permet d'être "copiée-collée" là où elle est appellée
+ 
+Finished building: ../src/Sobel.c
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'doSobel':
+../src/main.c:62:37: warning: passing argument 2 of 'XSobel_filter_Set_out_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_out_pix(&filter, img_out);
+                                     ^~~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:92:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'unsigned int *'
+ void XSobel_filter_Set_out_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:63:39: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                                       ^~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/main.c
+ 
+Building file: ../src/platform.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+Finished building: ../src/platform.c
+ 
+Building target: malheur.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "malheur.elf"  ./src/hdmi/video_frame_buffer.o ./src/hdmi/video_generator.o ./src/hdmi/video_resolution.o ./src/hdmi/zed_hdmi_display.o ./src/hdmi/zed_iic_axi.o  ./src/Sobel.o ./src/main.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group
+Finished building target: malheur.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size malheur.elf  |tee "malheur.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 171204	   3284	419447392	419621880	1902ebf8	malheur.elf
+Finished building: malheur.elf.size
+ 
+16:47:02 **** Incremental Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Rien à faire pour « main-build ».
+16:59:28 **** Incremental Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'doSobel':
+../src/main.c:62:37: warning: passing argument 2 of 'XSobel_filter_Set_out_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_out_pix(&filter, img_out);
+                                     ^~~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:92:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'unsigned int *'
+ void XSobel_filter_Set_out_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:63:39: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                                       ^~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/main.c
+ 
+Building target: malheur.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "malheur.elf"  ./src/hdmi/video_frame_buffer.o ./src/hdmi/video_generator.o ./src/hdmi/video_resolution.o ./src/hdmi/zed_hdmi_display.o ./src/hdmi/zed_iic_axi.o  ./src/Sobel.o ./src/main.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group
+Finished building target: malheur.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size malheur.elf  |tee "malheur.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 171220	   3284	419447392	419621896	1902ec08	malheur.elf
+Finished building: malheur.elf.size
+ 
+17:00:02 **** Incremental Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Rien à faire pour « main-build ».
+17:01:52 **** Clean-only build of project standalone_bsp_0 ****
+make -k clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v6_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_7/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v3_2/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src -s clean 
+C:\Logiciels\Xilinx\SDK\2017.2\gnuwin\bin\rm.exe: ne peut évaluer par lstat() `*.o': Invalid argument
+make[1]: *** [clean] Erreur 1
+make: *** [ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src/make.clean] Erreur 2
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v6_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v3_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/vtc_v7_2/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xilffs_v3_6/src -s clean 
+make: La cible « clean » n'a pas pu être refabriquée à cause d'erreurs.
+17:01:56 **** Clean-only build of configuration Debug for project malheur ****
+make clean 
+rm -rf  ./src/hdmi/video_frame_buffer.o ./src/hdmi/video_generator.o ./src/hdmi/video_resolution.o ./src/hdmi/zed_hdmi_display.o ./src/hdmi/zed_iic_axi.o  ./src/Sobel.o ./src/main.o ./src/platform.o  ./src/hdmi/video_frame_buffer.d ./src/hdmi/video_generator.d ./src/hdmi/video_resolution.d ./src/hdmi/zed_hdmi_display.d ./src/hdmi/zed_iic_axi.d  ./src/Sobel.d ./src/main.d ./src/platform.d  malheur.elf.size  malheur.elf
+ 
+17:01:56 **** Build of project standalone_bsp_0 ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axivdma_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v6_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/iic_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_7/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v6_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/vtc_v7_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/vtc_v7_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v3_6/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xilffs_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make libs in ps7_cortexa9_0/libsrc/axivdma_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v6_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling axivdma"
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma.c:79:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+xaxivdma.c: In function 'XAxiVdma_CfgInitialize':
+xdebug.h:76:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xaxivdma.c:205:4: note: in expansion of macro 'xdbg_printf'
+    xdbg_printf(XDBG_DEBUG_GENERAL,
+    ^~~~~~~~~~~
+xdebug.h:76:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xaxivdma.c:286:4: note: in expansion of macro 'xdbg_printf'
+    xdbg_printf(XDBG_DEBUG_GENERAL,
+    ^~~~~~~~~~~
+xaxivdma.c: In function 'XAxiVdma_SetLineBufThreshold':
+xaxivdma.c:560:5: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+     "Line Buffer Threshold set to %x\n\r",
+     ^
+xdebug.h:76:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xdebug.h:76:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xaxivdma.c:559:4: note: in expansion of macro 'xdbg_printf'
+    xdbg_printf(XDBG_DEBUG_GENERAL,
+    ^~~~~~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma_channel.c:84:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_g.c:41:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_intr.c:61:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_selftest.c:54:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_sinit.c:59:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling coresightps_dcc"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/iic_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling iic"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_7/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling scugic"
+xscugic_g.c:53:2: warning: missing initializer for field 'HandlerTable' of 'XScuGic_Config {aka struct <anonymous>}' [-Wmissing-field-initializers]
+  }
+  ^
+In file included from xscugic_g.c:41:0:
+xscugic.h:218:27: note: 'HandlerTable' declared here
+  XScuGic_VectorTableEntry HandlerTable[XSCUGIC_MAX_NUM_INTR_INPUTS];/**<
+                           ^~~~~~~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling sobel_filter"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v6_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling standalone"
+In file included from xil_exception.c:59:0:
+xdebug.h:8:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+xil_exception.c: In function 'Xil_DataAbortHandler':
+xdebug.h:21:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xil_exception.c:261:9: note: in expansion of macro 'xdbg_printf'
+         xdbg_printf(XDBG_DEBUG_ERROR, "Data abort \n");
+         ^~~~~~~~~~~
+xil_exception.c:270:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Data abort with Data Fault Status Register  %x\n",FaultStatus);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c:271:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Address of Instrcution causing Data abort %x\n",DataAbortAddr);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c: In function 'Xil_PrefetchAbortHandler':
+xdebug.h:21:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xil_exception.c:296:5: note: in expansion of macro 'xdbg_printf'
+     xdbg_printf(XDBG_DEBUG_ERROR, "Prefetch abort \n");
+     ^~~~~~~~~~~
+xil_exception.c:305:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Prefetch abort with Instruction Fault Status Register  %x\n",FaultStatus);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c:306:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Address of Instrcution causing Prefetch abort %x\n",PrefetchAbortAddr);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c: In function 'Xil_UndefinedExceptionHandler':
+xil_exception.c:327:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Address of the undefined instruction %x\n",UndefinedExceptionAddr);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/vtc_v7_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/vtc_v7_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling video timing controller"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling xadcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v3_6/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xilffs_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling XilFFs Library"
+diskio.c:135:11: warning: 'ExtCsd' defined but not used [-Wunused-variable]
+ static u8 ExtCsd[512] __attribute__ ((aligned(32)));
+           ^~~~~~
+'Finished building libraries'
+17:02:51 **** Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/hdmi/video_frame_buffer.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/video_frame_buffer.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/video_frame_buffer.d" -MT"src/hdmi/video_frame_buffer.o" -o "src/hdmi/video_frame_buffer.o" "../src/hdmi/video_frame_buffer.c"
+Finished building: ../src/hdmi/video_frame_buffer.c
+ 
+Building file: ../src/hdmi/video_generator.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/video_generator.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/video_generator.d" -MT"src/hdmi/video_generator.o" -o "src/hdmi/video_generator.o" "../src/hdmi/video_generator.c"
+Finished building: ../src/hdmi/video_generator.c
+ 
+Building file: ../src/hdmi/video_resolution.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/video_resolution.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/video_resolution.d" -MT"src/hdmi/video_resolution.o" -o "src/hdmi/video_resolution.o" "../src/hdmi/video_resolution.c"
+Finished building: ../src/hdmi/video_resolution.c
+ 
+Building file: ../src/hdmi/zed_hdmi_display.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/zed_hdmi_display.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/zed_hdmi_display.d" -MT"src/hdmi/zed_hdmi_display.o" -o "src/hdmi/zed_hdmi_display.o" "../src/hdmi/zed_hdmi_display.c"
+Finished building: ../src/hdmi/zed_hdmi_display.c
+ 
+Building file: ../src/hdmi/zed_iic_axi.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/zed_iic_axi.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/zed_iic_axi.d" -MT"src/hdmi/zed_iic_axi.o" -o "src/hdmi/zed_iic_axi.o" "../src/hdmi/zed_iic_axi.c"
+Finished building: ../src/hdmi/zed_iic_axi.c
+ 
+Building file: ../src/Sobel.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/Sobel.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/Sobel.d" -MT"src/Sobel.o" -o "src/Sobel.o" "../src/Sobel.c"
+../src/Sobel.c: In function 'sobel_filter':
+../src/Sobel.c:24:0: warning: ignoring #pragma HLS INTERFACE [-Wunknown-pragmas]
+ #pragma HLS INTERFACE m_axi port=inter_pix offset=slave
+ 
+../src/Sobel.c:25:0: warning: ignoring #pragma HLS INTERFACE [-Wunknown-pragmas]
+ #pragma HLS INTERFACE m_axi port=out_pix offset=slave
+ 
+../src/Sobel.c:26:0: warning: ignoring #pragma HLS INTERFACE [-Wunknown-pragmas]
+ #pragma HLS INTERFACE s_axilite port=return
+ 
+../src/Sobel.c: In function 'sobel_operator':
+../src/Sobel.c:62:0: warning: ignoring #pragma HLS inline [-Wunknown-pragmas]
+ #pragma HLS inline   // Inliner la fonction lui permet d'être "copiée-collée" là où elle est appellée
+ 
+Finished building: ../src/Sobel.c
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'doSobel':
+../src/main.c:62:37: warning: passing argument 2 of 'XSobel_filter_Set_out_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_out_pix(&filter, img_out);
+                                     ^~~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:92:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'unsigned int *'
+ void XSobel_filter_Set_out_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:63:39: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                                       ^~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/main.c
+ 
+Building file: ../src/platform.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+Finished building: ../src/platform.c
+ 
+Building target: malheur.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "malheur.elf"  ./src/hdmi/video_frame_buffer.o ./src/hdmi/video_generator.o ./src/hdmi/video_resolution.o ./src/hdmi/zed_hdmi_display.o ./src/hdmi/zed_iic_axi.o  ./src/Sobel.o ./src/main.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group
+Finished building target: malheur.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size malheur.elf  |tee "malheur.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 170964	   3284	419447392	419621640	1902eb08	malheur.elf
+Finished building: malheur.elf.size
+ 
+17:08:06 **** Incremental Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Rien à faire pour « main-build ».
+17:10:10 **** Incremental Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Rien à faire pour « main-build ».
+17:27:13 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'doSobel':
+../src/main.c:48:37: warning: passing argument 2 of 'XSobel_filter_Set_out_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_out_pix(&filter, img_out);
+                                     ^~~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:92:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'unsigned int *'
+ void XSobel_filter_Set_out_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:49:39: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                                       ^~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c: In function 'main':
+../src/main.c:151:37: error: 'img_out' undeclared (first use in this function)
+  XSobel_filter_Set_out_pix(&filter, img_out);
+                                     ^~~~~~~
+../src/main.c:151:37: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:152:39: error: 'img_in' undeclared (first use in this function)
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                                       ^~~~~~
+../src/main.c:162:4: warning: implicit declaration of function 'show_video_rgb' [-Wimplicit-function-declaration]
+    show_video_rgb(&hdmiConfig, sobel_out, IMG_SIZE);
+    ^~~~~~~~~~~~~~
+make: *** [src/main.o] Erreur 1
+17:27:29 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'doSobel':
+../src/main.c:48:37: warning: passing argument 2 of 'XSobel_filter_Set_out_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_out_pix(&filter, img_out);
+                                     ^~~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:92:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'unsigned int *'
+ void XSobel_filter_Set_out_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:49:39: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                                       ^~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c: In function 'main':
+../src/main.c:151:37: error: 'pDemo' undeclared (first use in this function)
+  XSobel_filter_Set_out_pix(&filter, pDemo->uBaseAddr_MEM_HdmiDisplay);
+                                     ^~~~~
+../src/main.c:151:37: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:160:4: warning: implicit declaration of function 'show_video_rgb' [-Wimplicit-function-declaration]
+    show_video_rgb(&hdmiConfig, sobel_out, IMG_SIZE);
+    ^~~~~~~~~~~~~~
+make: *** [src/main.o] Erreur 1
+17:27:41 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'doSobel':
+../src/main.c:45:31: error: 'filter' undeclared (first use in this function)
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                               ^~~~~~
+../src/main.c:45:31: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:45:39: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                                       ^~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c: In function 'main':
+../src/main.c:147:37: error: 'pDemo' undeclared (first use in this function)
+  XSobel_filter_Set_out_pix(&filter, pDemo->uBaseAddr_MEM_HdmiDisplay);
+                                     ^~~~~
+../src/main.c:156:4: warning: implicit declaration of function 'show_video_rgb' [-Wimplicit-function-declaration]
+    show_video_rgb(&hdmiConfig, sobel_out, IMG_SIZE);
+    ^~~~~~~~~~~~~~
+make: *** [src/main.o] Erreur 1
+17:28:41 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'doSobel':
+../src/main.c:45:31: error: 'filter' undeclared (first use in this function)
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                               ^~~~~~
+../src/main.c:45:31: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:45:39: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                                       ^~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c: In function 'main':
+../src/main.c:147:37: error: 'pDemo' undeclared (first use in this function)
+  XSobel_filter_Set_out_pix(&filter, pDemo->uBaseAddr_MEM_HdmiDisplay);
+                                     ^~~~~
+../src/main.c:155:41: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+    XSobel_filter_Set_inter_pix(&filter, &data[i])
+                                         ^
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:156:4: error: expected ';' before 'doSobel'
+    doSobel(&(data[i]), sobel_out);
+    ^~~~~~~
+../src/main.c:150:13: warning: unused variable 'sobel_out' [-Wunused-variable]
+  unsigned * sobel_out = malloc(IMG_SIZE * sizeof(unsigned));
+             ^~~~~~~~~
+make: *** [src/main.o] Erreur 1
+17:28:49 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'doSobel':
+../src/main.c:45:31: error: 'filter' undeclared (first use in this function)
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                               ^~~~~~
+../src/main.c:45:31: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:45:39: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                                       ^~~~~~
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c: In function 'main':
+../src/main.c:147:37: error: 'pDemo' undeclared (first use in this function)
+  XSobel_filter_Set_out_pix(&filter, pDemo->uBaseAddr_MEM_HdmiDisplay);
+                                     ^~~~~
+../src/main.c:155:41: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+    XSobel_filter_Set_inter_pix(&filter, &data[i])
+                                         ^
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:156:4: error: expected ';' before 'doSobel'
+    doSobel(&filter);
+    ^~~~~~~
+../src/main.c:150:13: warning: unused variable 'sobel_out' [-Wunused-variable]
+  unsigned * sobel_out = malloc(IMG_SIZE * sizeof(unsigned));
+             ^~~~~~~~~
+make: *** [src/main.o] Erreur 1
+17:29:03 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'doSobel':
+../src/main.c:45:39: error: 'img_in' undeclared (first use in this function)
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                                       ^~~~~~
+../src/main.c:45:39: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:45:30: warning: passing argument 1 of 'XSobel_filter_Set_inter_pix' from incompatible pointer type [-Wincompatible-pointer-types]
+  XSobel_filter_Set_inter_pix(&filter, img_in);
+                              ^
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'XSobel_filter * {aka struct <anonymous> *}' but argument is of type 'XSobel_filter ** {aka struct <anonymous> **}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:47:32: warning: passing argument 1 of 'XSobel_filter_IsReady' from incompatible pointer type [-Wincompatible-pointer-types]
+  while (!XSobel_filter_IsReady(&filter));
+                                ^
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:86:5: note: expected 'XSobel_filter * {aka struct <anonymous> *}' but argument is of type 'XSobel_filter ** {aka struct <anonymous> **}'
+ u32 XSobel_filter_IsReady(XSobel_filter *InstancePtr);
+     ^~~~~~~~~~~~~~~~~~~~~
+../src/main.c:54:22: warning: passing argument 1 of 'XSobel_filter_Start' from incompatible pointer type [-Wincompatible-pointer-types]
+  XSobel_filter_Start(&filter);
+                      ^
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:83:6: note: expected 'XSobel_filter * {aka struct <anonymous> *}' but argument is of type 'XSobel_filter ** {aka struct <anonymous> **}'
+ void XSobel_filter_Start(XSobel_filter *InstancePtr);
+      ^~~~~~~~~~~~~~~~~~~
+../src/main.c:56:30: warning: passing argument 1 of 'XSobel_filter_IsDone' from incompatible pointer type [-Wincompatible-pointer-types]
+  while(!XSobel_filter_IsDone(&filter));
+                              ^
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:84:5: note: expected 'XSobel_filter * {aka struct <anonymous> *}' but argument is of type 'XSobel_filter ** {aka struct <anonymous> **}'
+ u32 XSobel_filter_IsDone(XSobel_filter *InstancePtr);
+     ^~~~~~~~~~~~~~~~~~~~
+../src/main.c: In function 'main':
+../src/main.c:147:37: error: 'pDemo' undeclared (first use in this function)
+  XSobel_filter_Set_out_pix(&filter, pDemo->uBaseAddr_MEM_HdmiDisplay);
+                                     ^~~~~
+../src/main.c:155:41: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+    XSobel_filter_Set_inter_pix(&filter, &data[i])
+                                         ^
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:156:4: error: expected ';' before 'doSobel'
+    doSobel(&filter);
+    ^~~~~~~
+../src/main.c:150:13: warning: unused variable 'sobel_out' [-Wunused-variable]
+  unsigned * sobel_out = malloc(IMG_SIZE * sizeof(unsigned));
+             ^~~~~~~~~
+make: *** [src/main.o] Erreur 1
+17:29:20 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:145:37: error: 'pDemo' undeclared (first use in this function)
+  XSobel_filter_Set_out_pix(&filter, pDemo->uBaseAddr_MEM_HdmiDisplay);
+                                     ^~~~~
+../src/main.c:145:37: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:153:41: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+    XSobel_filter_Set_inter_pix(&filter, &data[i])
+                                         ^
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:154:4: error: expected ';' before 'doSobel'
+    doSobel(&filter);
+    ^~~~~~~
+../src/main.c:148:13: warning: unused variable 'sobel_out' [-Wunused-variable]
+  unsigned * sobel_out = malloc(IMG_SIZE * sizeof(unsigned));
+             ^~~~~~~~~
+make: *** [src/main.o] Erreur 1
+17:29:23 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:144:37: error: 'pDemo' undeclared (first use in this function)
+  XSobel_filter_Set_out_pix(&filter, pDemo->uBaseAddr_MEM_HdmiDisplay);
+                                     ^~~~~
+../src/main.c:144:37: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:152:41: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+    XSobel_filter_Set_inter_pix(&filter, &data[i])
+                                         ^
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:153:4: error: expected ';' before 'doSobel'
+    doSobel(&filter);
+    ^~~~~~~
+../src/main.c:147:13: warning: unused variable 'sobel_out' [-Wunused-variable]
+  unsigned * sobel_out = malloc(IMG_SIZE * sizeof(unsigned));
+             ^~~~~~~~~
+make: *** [src/main.o] Erreur 1
+17:29:47 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:144:47: error: invalid type argument of '->' (have 'zed_hdmi_display_t {aka struct struct_zed_hdmi_display_t}')
+  XSobel_filter_Set_out_pix(&filter, hdmiConfig->uBaseAddr_MEM_HdmiDisplay);
+                                               ^~
+../src/main.c:152:41: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+    XSobel_filter_Set_inter_pix(&filter, &data[i])
+                                         ^
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:153:4: error: expected ';' before 'doSobel'
+    doSobel(&filter);
+    ^~~~~~~
+../src/main.c:147:13: warning: unused variable 'sobel_out' [-Wunused-variable]
+  unsigned * sobel_out = malloc(IMG_SIZE * sizeof(unsigned));
+             ^~~~~~~~~
+make: *** [src/main.o] Erreur 1
+17:29:55 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:152:41: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+    XSobel_filter_Set_inter_pix(&filter, &data[i])
+                                         ^
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:153:4: error: expected ';' before 'doSobel'
+    doSobel(&filter);
+    ^~~~~~~
+../src/main.c:147:13: warning: unused variable 'sobel_out' [-Wunused-variable]
+  unsigned * sobel_out = malloc(IMG_SIZE * sizeof(unsigned));
+             ^~~~~~~~~
+make: *** [src/main.o] Erreur 1
+17:30:25 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:150:41: warning: passing argument 2 of 'XSobel_filter_Set_inter_pix' makes integer from pointer without a cast [-Wint-conversion]
+    XSobel_filter_Set_inter_pix(&filter, &data[i])
+                                         ^
+In file included from ../src/main.c:13:0:
+../../standalone_bsp_0/ps7_cortexa9_0/include/xsobel_filter.h:90:6: note: expected 'u32 {aka long unsigned int}' but argument is of type 'uint8_t * {aka unsigned char *}'
+ void XSobel_filter_Set_inter_pix(XSobel_filter *InstancePtr, u32 Data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/main.c:151:4: error: expected ';' before 'doSobel'
+    doSobel(&filter);
+    ^~~~~~~
+make: *** [src/main.o] Erreur 1
+17:30:39 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:151:4: error: expected ';' before 'doSobel'
+    doSobel(&filter);
+    ^~~~~~~
+make: *** [src/main.o] Erreur 1
+17:30:45 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: malheur.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "malheur.elf"  ./src/hdmi/video_frame_buffer.o ./src/hdmi/video_generator.o ./src/hdmi/video_resolution.o ./src/hdmi/zed_hdmi_display.o ./src/hdmi/zed_iic_axi.o  ./src/Sobel.o ./src/main.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group
+Finished building target: malheur.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size malheur.elf  |tee "malheur.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 170708	   3284	419447392	419621384	1902ea08	malheur.elf
+Finished building: malheur.elf.size
+ 
+17:31:14 **** Clean-only build of project standalone_bsp_0 ****
+make -k clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v6_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_7/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v3_2/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src -s clean 
+C:\Logiciels\Xilinx\SDK\2017.2\gnuwin\bin\rm.exe: ne peut évaluer par lstat() `*.o': Invalid argument
+make[1]: *** [clean] Erreur 1
+make: *** [ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src/make.clean] Erreur 2
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v6_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v3_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/vtc_v7_2/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xilffs_v3_6/src -s clean 
+make: La cible « clean » n'a pas pu être refabriquée à cause d'erreurs.
+17:31:18 **** Clean-only build of configuration Debug for project malheur ****
+make clean 
+rm -rf  ./src/hdmi/video_frame_buffer.o ./src/hdmi/video_generator.o ./src/hdmi/video_resolution.o ./src/hdmi/zed_hdmi_display.o ./src/hdmi/zed_iic_axi.o  ./src/Sobel.o ./src/main.o ./src/platform.o  ./src/hdmi/video_frame_buffer.d ./src/hdmi/video_generator.d ./src/hdmi/video_resolution.d ./src/hdmi/zed_hdmi_display.d ./src/hdmi/zed_iic_axi.d  ./src/Sobel.d ./src/main.d ./src/platform.d  malheur.elf.size  malheur.elf
+ 
+17:31:18 **** Build of project standalone_bsp_0 ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axivdma_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v6_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/iic_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_7/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v6_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/vtc_v7_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/vtc_v7_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v3_6/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xilffs_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make libs in ps7_cortexa9_0/libsrc/axivdma_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v6_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling axivdma"
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma.c:79:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+xaxivdma.c: In function 'XAxiVdma_CfgInitialize':
+xdebug.h:76:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xaxivdma.c:205:4: note: in expansion of macro 'xdbg_printf'
+    xdbg_printf(XDBG_DEBUG_GENERAL,
+    ^~~~~~~~~~~
+xdebug.h:76:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xaxivdma.c:286:4: note: in expansion of macro 'xdbg_printf'
+    xdbg_printf(XDBG_DEBUG_GENERAL,
+    ^~~~~~~~~~~
+xaxivdma.c: In function 'XAxiVdma_SetLineBufThreshold':
+xaxivdma.c:560:5: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+     "Line Buffer Threshold set to %x\n\r",
+     ^
+xdebug.h:76:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xdebug.h:76:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xaxivdma.c:559:4: note: in expansion of macro 'xdbg_printf'
+    xdbg_printf(XDBG_DEBUG_GENERAL,
+    ^~~~~~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma_channel.c:84:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_g.c:41:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_intr.c:61:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_selftest.c:54:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_sinit.c:59:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling coresightps_dcc"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/iic_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling iic"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_7/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling scugic"
+xscugic_g.c:53:2: warning: missing initializer for field 'HandlerTable' of 'XScuGic_Config {aka struct <anonymous>}' [-Wmissing-field-initializers]
+  }
+  ^
+In file included from xscugic_g.c:41:0:
+xscugic.h:218:27: note: 'HandlerTable' declared here
+  XScuGic_VectorTableEntry HandlerTable[XSCUGIC_MAX_NUM_INTR_INPUTS];/**<
+                           ^~~~~~~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling sobel_filter"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v6_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling standalone"
+In file included from xil_exception.c:59:0:
+xdebug.h:8:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+xil_exception.c: In function 'Xil_DataAbortHandler':
+xdebug.h:21:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xil_exception.c:261:9: note: in expansion of macro 'xdbg_printf'
+         xdbg_printf(XDBG_DEBUG_ERROR, "Data abort \n");
+         ^~~~~~~~~~~
+xil_exception.c:270:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Data abort with Data Fault Status Register  %x\n",FaultStatus);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c:271:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Address of Instrcution causing Data abort %x\n",DataAbortAddr);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c: In function 'Xil_PrefetchAbortHandler':
+xdebug.h:21:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xil_exception.c:296:5: note: in expansion of macro 'xdbg_printf'
+     xdbg_printf(XDBG_DEBUG_ERROR, "Prefetch abort \n");
+     ^~~~~~~~~~~
+xil_exception.c:305:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Prefetch abort with Instruction Fault Status Register  %x\n",FaultStatus);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c:306:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Address of Instrcution causing Prefetch abort %x\n",PrefetchAbortAddr);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c: In function 'Xil_UndefinedExceptionHandler':
+xil_exception.c:327:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Address of the undefined instruction %x\n",UndefinedExceptionAddr);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/vtc_v7_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/vtc_v7_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling video timing controller"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling xadcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v3_6/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xilffs_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling XilFFs Library"
+diskio.c:135:11: warning: 'ExtCsd' defined but not used [-Wunused-variable]
+ static u8 ExtCsd[512] __attribute__ ((aligned(32)));
+           ^~~~~~
+'Finished building libraries'
+17:32:23 **** Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/hdmi/video_frame_buffer.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/video_frame_buffer.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/video_frame_buffer.d" -MT"src/hdmi/video_frame_buffer.o" -o "src/hdmi/video_frame_buffer.o" "../src/hdmi/video_frame_buffer.c"
+Finished building: ../src/hdmi/video_frame_buffer.c
+ 
+Building file: ../src/hdmi/video_generator.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/video_generator.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/video_generator.d" -MT"src/hdmi/video_generator.o" -o "src/hdmi/video_generator.o" "../src/hdmi/video_generator.c"
+Finished building: ../src/hdmi/video_generator.c
+ 
+Building file: ../src/hdmi/video_resolution.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/video_resolution.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/video_resolution.d" -MT"src/hdmi/video_resolution.o" -o "src/hdmi/video_resolution.o" "../src/hdmi/video_resolution.c"
+Finished building: ../src/hdmi/video_resolution.c
+ 
+Building file: ../src/hdmi/zed_hdmi_display.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/zed_hdmi_display.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/zed_hdmi_display.d" -MT"src/hdmi/zed_hdmi_display.o" -o "src/hdmi/zed_hdmi_display.o" "../src/hdmi/zed_hdmi_display.c"
+Finished building: ../src/hdmi/zed_hdmi_display.c
+ 
+Building file: ../src/hdmi/zed_iic_axi.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/zed_iic_axi.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/zed_iic_axi.d" -MT"src/hdmi/zed_iic_axi.o" -o "src/hdmi/zed_iic_axi.o" "../src/hdmi/zed_iic_axi.c"
+Finished building: ../src/hdmi/zed_iic_axi.c
+ 
+Building file: ../src/Sobel.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/Sobel.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/Sobel.d" -MT"src/Sobel.o" -o "src/Sobel.o" "../src/Sobel.c"
+../src/Sobel.c: In function 'sobel_filter':
+../src/Sobel.c:24:0: warning: ignoring #pragma HLS INTERFACE [-Wunknown-pragmas]
+ #pragma HLS INTERFACE m_axi port=inter_pix offset=slave
+ 
+../src/Sobel.c:25:0: warning: ignoring #pragma HLS INTERFACE [-Wunknown-pragmas]
+ #pragma HLS INTERFACE m_axi port=out_pix offset=slave
+ 
+../src/Sobel.c:26:0: warning: ignoring #pragma HLS INTERFACE [-Wunknown-pragmas]
+ #pragma HLS INTERFACE s_axilite port=return
+ 
+../src/Sobel.c: In function 'sobel_operator':
+../src/Sobel.c:62:0: warning: ignoring #pragma HLS inline [-Wunknown-pragmas]
+ #pragma HLS inline   // Inliner la fonction lui permet d'être "copiée-collée" là où elle est appellée
+ 
+Finished building: ../src/Sobel.c
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building file: ../src/platform.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+Finished building: ../src/platform.c
+ 
+Building target: malheur.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "malheur.elf"  ./src/hdmi/video_frame_buffer.o ./src/hdmi/video_generator.o ./src/hdmi/video_resolution.o ./src/hdmi/zed_hdmi_display.o ./src/hdmi/zed_iic_axi.o  ./src/Sobel.o ./src/main.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group
+Finished building target: malheur.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size malheur.elf  |tee "malheur.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 170708	   3284	419447392	419621384	1902ea08	malheur.elf
+Finished building: malheur.elf.size
+ 
+17:33:02 **** Incremental Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Rien à faire pour « main-build ».
+17:35:31 **** Auto Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: malheur.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "malheur.elf"  ./src/hdmi/video_frame_buffer.o ./src/hdmi/video_generator.o ./src/hdmi/video_resolution.o ./src/hdmi/zed_hdmi_display.o ./src/hdmi/zed_iic_axi.o  ./src/Sobel.o ./src/main.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group
+Finished building target: malheur.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size malheur.elf  |tee "malheur.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 170692	   3284	419447392	419621368	1902e9f8	malheur.elf
+Finished building: malheur.elf.size
+ 
+17:47:39 **** Clean-only build of project standalone_bsp_0 ****
+make -k clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v6_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_7/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v3_2/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src -s clean 
+C:\Logiciels\Xilinx\SDK\2017.2\gnuwin\bin\rm.exe: ne peut évaluer par lstat() `*.o': Invalid argument
+make[1]: *** [clean] Erreur 1
+make: *** [ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src/make.clean] Erreur 2
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v6_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v3_3/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/vtc_v7_2/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s clean 
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xilffs_v3_6/src -s clean 
+make: La cible « clean » n'a pas pu être refabriquée à cause d'erreurs.
+17:47:43 **** Clean-only build of configuration Debug for project malheur ****
+make clean 
+rm -rf  ./src/hdmi/video_frame_buffer.o ./src/hdmi/video_generator.o ./src/hdmi/video_resolution.o ./src/hdmi/zed_hdmi_display.o ./src/hdmi/zed_iic_axi.o  ./src/Sobel.o ./src/main.o ./src/platform.o  ./src/hdmi/video_frame_buffer.d ./src/hdmi/video_generator.d ./src/hdmi/video_resolution.d ./src/hdmi/zed_hdmi_display.d ./src/hdmi/zed_iic_axi.d  ./src/Sobel.d ./src/main.d ./src/platform.d  malheur.elf.size  malheur.elf
+ 
+17:47:44 **** Build of project standalone_bsp_0 ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axivdma_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v6_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/iic_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_7/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v6_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/vtc_v7_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/vtc_v7_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v3_6/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xilffs_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Running Make libs in ps7_cortexa9_0/libsrc/axivdma_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v6_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling axivdma"
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma.c:79:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+xaxivdma.c: In function 'XAxiVdma_CfgInitialize':
+xdebug.h:76:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xaxivdma.c:205:4: note: in expansion of macro 'xdbg_printf'
+    xdbg_printf(XDBG_DEBUG_GENERAL,
+    ^~~~~~~~~~~
+xdebug.h:76:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xaxivdma.c:286:4: note: in expansion of macro 'xdbg_printf'
+    xdbg_printf(XDBG_DEBUG_GENERAL,
+    ^~~~~~~~~~~
+xaxivdma.c: In function 'XAxiVdma_SetLineBufThreshold':
+xaxivdma.c:560:5: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+     "Line Buffer Threshold set to %x\n\r",
+     ^
+xdebug.h:76:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xdebug.h:76:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xaxivdma.c:559:4: note: in expansion of macro 'xdbg_printf'
+    xdbg_printf(XDBG_DEBUG_GENERAL,
+    ^~~~~~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma_channel.c:84:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_g.c:41:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_intr.c:61:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_selftest.c:54:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+In file included from xaxivdma_i.h:76:0,
+                 from xaxivdma.h:315,
+                 from xaxivdma_sinit.c:59:
+xdebug.h:41:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling coresightps_dcc"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/iic_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling iic"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_7/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling scugic"
+xscugic_g.c:53:2: warning: missing initializer for field 'HandlerTable' of 'XScuGic_Config {aka struct <anonymous>}' [-Wmissing-field-initializers]
+  }
+  ^
+In file included from xscugic_g.c:41:0:
+xscugic.h:218:27: note: 'HandlerTable' declared here
+  XScuGic_VectorTableEntry HandlerTable[XSCUGIC_MAX_NUM_INTR_INPUTS];/**<
+                           ^~~~~~~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sobel_filter_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling sobel_filter"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v6_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling standalone"
+In file included from xil_exception.c:59:0:
+xdebug.h:8:2: warning: #warning DEBUG is enabled [-Wcpp]
+ #warning DEBUG is enabled
+  ^~~~~~~
+xil_exception.c: In function 'Xil_DataAbortHandler':
+xdebug.h:21:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xil_exception.c:261:9: note: in expansion of macro 'xdbg_printf'
+         xdbg_printf(XDBG_DEBUG_ERROR, "Data abort \n");
+         ^~~~~~~~~~~
+xil_exception.c:270:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Data abort with Data Fault Status Register  %x\n",FaultStatus);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c:271:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Address of Instrcution causing Data abort %x\n",DataAbortAddr);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c: In function 'Xil_PrefetchAbortHandler':
+xdebug.h:21:32: warning: statement with no effect [-Wunused-value]
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                ^
+xil_exception.c:296:5: note: in expansion of macro 'xdbg_printf'
+     xdbg_printf(XDBG_DEBUG_ERROR, "Prefetch abort \n");
+     ^~~~~~~~~~~
+xil_exception.c:305:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Prefetch abort with Instruction Fault Status Register  %x\n",FaultStatus);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c:306:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Address of Instrcution causing Prefetch abort %x\n",PrefetchAbortAddr);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+xil_exception.c: In function 'Xil_UndefinedExceptionHandler':
+xil_exception.c:327:34: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'u32 {aka long unsigned int}' [-Wformat=]
+  xdbg_printf(XDBG_DEBUG_GENERAL, "Address of the undefined instruction %x\n",UndefinedExceptionAddr);
+                                  ^
+xdebug.h:21:73: note: in definition of macro 'xdbg_printf'
+ #define xdbg_printf(type, ...) (((type) & xdbg_current_types) ? printf (__VA_ARGS__) : 0)
+                                                                         ^~~~~~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/ttcps_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/vtc_v7_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/vtc_v7_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling video timing controller"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling xadcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v3_6/src"
+C:/Logiciels/Xilinx/SDK/2017.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xilffs_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra -O0 -g3 -DDEBUG"
+"Compiling XilFFs Library"
+diskio.c:135:11: warning: 'ExtCsd' defined but not used [-Wunused-variable]
+ static u8 ExtCsd[512] __attribute__ ((aligned(32)));
+           ^~~~~~
+'Finished building libraries'
+17:48:40 **** Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/hdmi/video_frame_buffer.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/video_frame_buffer.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/video_frame_buffer.d" -MT"src/hdmi/video_frame_buffer.o" -o "src/hdmi/video_frame_buffer.o" "../src/hdmi/video_frame_buffer.c"
+Finished building: ../src/hdmi/video_frame_buffer.c
+ 
+Building file: ../src/hdmi/video_generator.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/video_generator.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/video_generator.d" -MT"src/hdmi/video_generator.o" -o "src/hdmi/video_generator.o" "../src/hdmi/video_generator.c"
+Finished building: ../src/hdmi/video_generator.c
+ 
+Building file: ../src/hdmi/video_resolution.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/video_resolution.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/video_resolution.d" -MT"src/hdmi/video_resolution.o" -o "src/hdmi/video_resolution.o" "../src/hdmi/video_resolution.c"
+Finished building: ../src/hdmi/video_resolution.c
+ 
+Building file: ../src/hdmi/zed_hdmi_display.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/zed_hdmi_display.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/zed_hdmi_display.d" -MT"src/hdmi/zed_hdmi_display.o" -o "src/hdmi/zed_hdmi_display.o" "../src/hdmi/zed_hdmi_display.c"
+Finished building: ../src/hdmi/zed_hdmi_display.c
+ 
+Building file: ../src/hdmi/zed_iic_axi.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/hdmi/zed_iic_axi.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/hdmi/zed_iic_axi.d" -MT"src/hdmi/zed_iic_axi.o" -o "src/hdmi/zed_iic_axi.o" "../src/hdmi/zed_iic_axi.c"
+Finished building: ../src/hdmi/zed_iic_axi.c
+ 
+Building file: ../src/Sobel.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/Sobel.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/Sobel.d" -MT"src/Sobel.o" -o "src/Sobel.o" "../src/Sobel.c"
+../src/Sobel.c: In function 'sobel_filter':
+../src/Sobel.c:24:0: warning: ignoring #pragma HLS INTERFACE [-Wunknown-pragmas]
+ #pragma HLS INTERFACE m_axi port=inter_pix offset=slave
+ 
+../src/Sobel.c:25:0: warning: ignoring #pragma HLS INTERFACE [-Wunknown-pragmas]
+ #pragma HLS INTERFACE m_axi port=out_pix offset=slave
+ 
+../src/Sobel.c:26:0: warning: ignoring #pragma HLS INTERFACE [-Wunknown-pragmas]
+ #pragma HLS INTERFACE s_axilite port=return
+ 
+../src/Sobel.c: In function 'sobel_operator':
+../src/Sobel.c:62:0: warning: ignoring #pragma HLS inline [-Wunknown-pragmas]
+ #pragma HLS inline   // Inliner la fonction lui permet d'être "copiée-collée" là où elle est appellée
+ 
+Finished building: ../src/Sobel.c
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building file: ../src/platform.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../standalone_bsp_0/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+Finished building: ../src/platform.c
+ 
+Building target: malheur.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/ps7_cortexa9_0/lib -o "malheur.elf"  ./src/hdmi/video_frame_buffer.o ./src/hdmi/video_generator.o ./src/hdmi/video_resolution.o ./src/hdmi/zed_hdmi_display.o ./src/hdmi/zed_iic_axi.o  ./src/Sobel.o ./src/main.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group
+Finished building target: malheur.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size malheur.elf  |tee "malheur.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 170692	   3284	419447392	419621368	1902e9f8	malheur.elf
+Finished building: malheur.elf.size
+ 
+17:58:02 **** Incremental Build of configuration Debug for project malheur ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Rien à faire pour « main-build ».

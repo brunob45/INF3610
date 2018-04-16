@@ -1,0 +1,195 @@
+INFO: [HLS 200-10] Running 'C:/Logiciels/Xilinx/Vivado_HLS/2017.2/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'admare' on host 'l3712-22' (Windows NT_amd64 version 6.2) on Wed Apr 11 14:01:24 -0400 2018
+INFO: [HLS 200-10] In directory 'C:/TEMP/3610_4'
+INFO: [HLS 200-10] Opening project 'C:/TEMP/3610_4/lab4_HLS'.
+INFO: [HLS 200-10] Adding design file 'INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp' to the project
+INFO: [HLS 200-10] Opening solution 'C:/TEMP/3610_4/lab4_HLS/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
+INFO: [HLS 200-10] Analyzing design file 'INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp' ... 
+WARNING: [HLS 200-40] In file included from INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:6:
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.h:38:3: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+                uint8_t Sobel::sobel_operator(const int index, const int imgWidth, uint8_t * image);
+                ^~~~~~~
+                wint_t              
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+In file included from INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:6:
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.h:38:70: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+                uint8_t Sobel::sobel_operator(const int index, const int imgWidth, uint8_t * image);
+                                                                                   ^~~~~~~
+                                                                                   wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+In file included from INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:6:
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.h:38:18: warning: extra qualification on member 'sobel_operator'
+                uint8_t Sobel::sobel_operator(const int index, const int imgWidth, uint8_t * image);
+                        ~~~~~~~^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:49:3: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+                uint8_t * image = new uint8_t[imgSize];
+                ^~~~~~~
+                wint_t              
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:49:25: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+                uint8_t * image = new uint8_t[imgSize];
+                                      ^~~~~~~
+                                      wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:50:3: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+                uint8_t * result = new uint8_t[imgSize];
+                ^~~~~~~
+                wint_t              
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:50:26: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+                uint8_t * result = new uint8_t[imgSize];
+                                       ^~~~~~~
+                                       wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:99:15: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+static inline uint8_t getVal(int index, int xDiff, int yDiff, int img_width, uint8_t * Y) 
+              ^~~~~~~
+              wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:99:78: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+static inline uint8_t getVal(int index, int xDiff, int yDiff, int img_width, uint8_t * Y) 
+                                                                             ^~~~~~~
+                                                                             wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:104:1: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+uint8_t Sobel::sobel_operator(const int index, const int imgWidth, uint8_t * image)
+^~~~~~~
+wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:104:68: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+uint8_t Sobel::sobel_operator(const int index, const int imgWidth, uint8_t * image)
+                                                                   ^~~~~~~
+                                                                   wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:110:2: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+        uint8_t edge_val;
+        ^~~~~~~
+        wint_t       
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:133:21: error: use of undeclared identifier 'uint8_t'; did you mean 'wint_t'?
+        edge_val = (255 - (uint8_t)(edge_weight));
+                           ^
+1 warning and 12 errors generated.
+ERROR: [HLS 200-70] Compilation errors found:
+Pragma processor failed: In file included from INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:6:
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.h:38:3: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+                uint8_t Sobel::sobel_operator(const int index, const int imgWidth, uint8_t * image);
+                ^~~~~~~
+                wint_t              
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+In file included from INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:6:
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.h:38:70: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+                uint8_t Sobel::sobel_operator(const int index, const int imgWidth, uint8_t * image);
+                                                                                   ^~~~~~~
+                                                                                   wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+In file included from INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:6:
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.h:38:18: warning: extra qualification on member 'sobel_operator'
+                uint8_t Sobel::sobel_operator(const int index, const int imgWidth, uint8_t * image);
+                        ~~~~~~~^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:49:3: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+                uint8_t * image = new uint8_t[imgSize];
+                ^~~~~~~
+                wint_t              
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:49:25: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+                uint8_t * image = new uint8_t[imgSize];
+                                      ^~~~~~~
+                                      wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:50:3: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+                uint8_t * result = new uint8_t[imgSize];
+                ^~~~~~~
+                wint_t              
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:50:26: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+                uint8_t * result = new uint8_t[imgSize];
+                                       ^~~~~~~
+                                       wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:99:15: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+static inline uint8_t getVal(int index, int xDiff, int yDiff, int img_width, uint8_t * Y) 
+              ^~~~~~~
+              wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:99:78: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+static inline uint8_t getVal(int index, int xDiff, int yDiff, int img_width, uint8_t * Y) 
+                                                                             ^~~~~~~
+                                                                             wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:104:1: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+uint8_t Sobel::sobel_operator(const int index, const int imgWidth, uint8_t * image)
+^~~~~~~
+wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:104:68: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+uint8_t Sobel::sobel_operator(const int index, const int imgWidth, uint8_t * image)
+                                                                   ^~~~~~~
+                                                                   wint_t
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:110:2: error: unknown type name 'uint8_t'; did you mean 'wint_t'?
+        uint8_t edge_val;
+        ^~~~~~~
+        wint_t       
+C:/Logiciels/Xilinx/Vivado_HLS/2017.2/win64/tools/clang/bin/../lib/clang/3.1/../../../x86_64-w64-mingw32/include\_mingw.h:436:24: note: 'wint_t' declared here
+typedef unsigned short wint_t;
+                       ^
+INF3610-Lab3-UTF/INF3610-Lab3/Sobel.cpp:133:21: error: use of undeclared identifier 'uint8_t'; did you mean 'wint_t'?
+        edge_val = (255 - (uint8_t)(edge_weight));
+                           ^
+1 warning and 12 errors generated.
+Failed checking during preprocessing.
+    while executing
+"source C:/TEMP/3610_4/lab4_HLS/solution1/csynth.tcl"
+    invoked from within
+"hls::main C:/TEMP/3610_4/lab4_HLS/solution1/csynth.tcl"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel 1 hls::main {*}$args"
+    (procedure "hls_proc" line 5)
+    invoked from within
+"hls_proc $argv"

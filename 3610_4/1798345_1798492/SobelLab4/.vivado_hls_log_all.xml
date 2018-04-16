@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 79, distance = 1, offset = 1)&#xD;&#xA;   between 'call' operation ('tmp_17', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'." projectName="SobelLab4" solutionName="solution1" date="2018-04-16T18:05:52.400-0400" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 78, distance = 1, offset = 1)&#xD;&#xA;   between 'call' operation ('tmp_17', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'." projectName="SobelLab4" solutionName="solution1" date="2018-04-16T18:05:52.388-0400" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 74, distance = 1, offset = 1)&#xD;&#xA;   between 'call' operation ('tmp_17', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'." projectName="SobelLab4" solutionName="solution1" date="2018-04-16T18:05:52.375-0400" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 67, distance = 1, offset = 1)&#xD;&#xA;   between 'call' operation ('tmp_16', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'." projectName="SobelLab4" solutionName="solution1" date="2018-04-16T18:05:52.361-0400" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 4, distance = 1, offset = 1)&#xD;&#xA;   between 'call' operation ('tmp_7', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'." projectName="SobelLab4" solutionName="solution1" date="2018-04-16T18:05:52.349-0400" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 1)&#xD;&#xA;   between 'call' operation ('tmp_7', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'." projectName="SobelLab4" solutionName="solution1" date="2018-04-16T18:05:52.338-0400" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 1)&#xD;&#xA;   between 'call' operation ('tmp_7', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'." projectName="SobelLab4" solutionName="solution1" date="2018-04-16T18:05:52.326-0400" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-68] Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)&#xD;&#xA;   between 'call' operation ('tmp_7', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal' and 'call' operation ('tmp_6', SobelLab4/Sobel.cpp:97->SobelLab4/Sobel.cpp:58) to 'getVal'." projectName="SobelLab4" solutionName="solution1" date="2018-04-16T18:05:52.315-0400" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

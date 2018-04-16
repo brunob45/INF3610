@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Mon Apr 16 17:36:43 2018
+# Process ID: 11084
+# Current directory: C:/TEMP/3610_4/1798345_1798492/SobelLab4/solution1/impl/ip
+# Command line: vivado.exe -notrace -mode batch -source run_ippack.tcl
+# Log file: C:/TEMP/3610_4/1798345_1798492/SobelLab4/solution1/impl/ip/vivado.log
+# Journal file: C:/TEMP/3610_4/1798345_1798492/SobelLab4/solution1/impl/ip\vivado.jou
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace

@@ -1,0 +1,75 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Mon Apr 16 12:54:13 2018
+# Process ID: 10960
+# Current directory: C:/TEMP/3610_4/TP4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8656 C:\TEMP\3610_4\TP4\TP4.xpr
+# Log file: C:/TEMP/3610_4/TP4/vivado.log
+# Journal file: C:/TEMP/3610_4/TP4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/TEMP/3610_4/TP4/TP4.xpr
+update_compile_order -fileset sources_1
+launch_sdk -workspace C:/TEMP/3610_4/TP4/TP4.sdk -hwspec C:/TEMP/3610_4/TP4/TP4.sdk/design_1_wrapper.hdf
+open_bd_design {C:/TEMP/3610_4/TP4/TP4.srcs/sources_1/bd/design_1/design_1.bd}
+launch_sdk -workspace C:/TEMP/3610_4/TP4/TP4.sdk -hwspec C:/TEMP/3610_4/TP4/TP4.sdk/design_1_wrapper.hdf
+update_ip_catalog -rebuild
+set_property  ip_repo_paths  {c:/TEMP/adam/INF3610-Lab4/1798345_1798492/SobelLab4 C:/TEMP/inf3610-lab4/1798345_1798492/SobelLab4 c:/TEMP/adam/INF3610-Lab4/1798345_1798492/ip_repo} [current_project]
+update_ip_catalog
+update_ip_catalog -rebuild
+set_property  ip_repo_paths  {c:/TEMP/adam/INF3610-Lab4/1798345_1798492/SobelLab4 c:/TEMP/adam/INF3610-Lab4/1798345_1798492/ip_repo} [current_project]
+update_ip_catalog
+set_property  ip_repo_paths  c:/TEMP/adam/INF3610-Lab4/1798345_1798492/ip_repo [current_project]
+update_ip_catalog
+set_property  ip_repo_paths  {} [current_project]
+update_ip_catalog
+set_property  ip_repo_paths  C:/TEMP/3610_4/1728325_1728235/SobelLab4 [current_project]
+update_ip_catalog
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+reset_run impl_1
+update_ip_catalog -rebuild
+set_property  ip_repo_paths  {} [current_project]
+update_ip_catalog
+set_property  ip_repo_paths  C:/TEMP/inf3610-lab4/1798345_1798492/SobelLab4 [current_project]
+update_ip_catalog
+set_property  ip_repo_paths  {c:/TEMP/inf3610-lab4/1798345_1798492/SobelLab4 C:/TEMP/inf3610-lab4/1798345_1798492/ip_repo} [current_project]
+update_ip_catalog
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+add_files -fileset constrs_1 -norecurse C:/TEMP/3610_4/1798345_1798492/ip_repo/AVNET_ZED_HDMI/constraints/zedboard_hdmi_display.xdc
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+update_files -from_files C:/TEMP/3610_4/1798345_1798492/ip_repo/AVNET_ZED_HDMI/constraints/zedboard_hdmi_display.xdc -to_files C:/TEMP/3610_4/1728325_1728235/ip_repo/AVNET_ZED_HDMI/constraints/zedboard_hdmi_display.xdc -filesets [get_filesets *]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+file copy -force C:/TEMP/3610_4/TP4/TP4.runs/impl_1/design_1_wrapper.sysdef C:/TEMP/3610_4/TP4/TP4.sdk/design_1_wrapper.hdf
+
+launch_sdk -workspace C:/TEMP/3610_4/TP4/TP4.sdk -hwspec C:/TEMP/3610_4/TP4/TP4.sdk/design_1_wrapper.hdf
+launch_sdk -workspace C:/TEMP/3610_4/TP4/TP4.sdk -hwspec C:/TEMP/3610_4/TP4/TP4.sdk/design_1_wrapper.hdf
+regenerate_bd_layout -routing
+regenerate_bd_layout
+regenerate_bd_layout -routing
+open_bd_design {C:/TEMP/3610_4/TP4/TP4.srcs/sources_1/bd/design_1/design_1.bd}
+regenerate_bd_layout
+save_bd_design
+regenerate_bd_layout
+regenerate_bd_layout -routing
+save_bd_design
+reset_run synth_1
+launch_runs synth_1 -jobs 8
+wait_on_run synth_1
+launch_runs impl_1 -jobs 8
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+file copy -force C:/TEMP/3610_4/TP4/TP4.runs/impl_1/design_1_wrapper.sysdef C:/TEMP/3610_4/TP4/TP4.sdk/design_1_wrapper.hdf
+
+open_bd_design {C:/TEMP/3610_4/TP4/TP4.srcs/sources_1/bd/design_1/design_1.bd}
+update_ip_catalog -rebuild
+update_ip_catalog -rebuild -repo_path c:/TEMP/inf3610-lab4/1798345_1798492/SobelLab4
